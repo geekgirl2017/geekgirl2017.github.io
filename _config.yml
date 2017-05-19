@@ -13,7 +13,7 @@ description: > # this means to ignore newlines until "baseurl:"
   (locally) to Ohio.  References available.  Take a look around.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://geekgirlwebdesigns.com" # the base hostname & protocol for your site
-twitter_username: geekgirlwebdesigns
+twitter_username: geekgirlcoder
 github_username:  geekgirl2017
 
 # Build settings
