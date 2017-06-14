@@ -1,0 +1,43 @@
+body {
+	font-family: 'Amaranth', sans-serif;
+	color: #ffffff;
+	
+}
+
+h1, h2 {
+  color: #1f5056;	
+  text-align: center;
+  
+}
+
+header {
+  text-align: center;
+  background-image: url("../images/tree1.png");
+	
+  background-size: cover;
+  height: 160px;
+}
+
+nav {
+	clear: both;
+	color: #ffffff;
+	background-color: #1f5056;
+	height: 30px;
+	text-align: center;
+}
+
+nav ul {
+	margin: 0px;
+	padding: 5px 0px 5px 30px;
+}
+
+nav li {
+	display: inline;
+	margin-right: 40px;
+}
+
+nav li a {
+	color: #ffffff;
+	text-decoration: none;
+}
+
